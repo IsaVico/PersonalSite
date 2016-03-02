@@ -2,9 +2,9 @@
 GLOBAL STYLES
 */
 body {
-    background-color: #fff;
+    background-color: #F5D3A2;
     color: #777;
-    font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font: normal 15px "Droid Sans", "Lucida Grande", Tahoma, sans-serif;
 }
 
 p {
@@ -13,8 +13,7 @@ p {
 }
 
 h1 {
-    font-family: 'Crete Round', serif;
-    font-weight: bold;
+    font-family: "Droid Sans", "Lucida Grande", Tahoma, sans-serif;
     color: #444;
     font-size: 45px;
     margin-bottom: 20px;
@@ -32,7 +31,6 @@ h2 {
 h3 {
     font-size: 30px;
     color: #444;
-    font-weight: bold;
     text-transform: uppercase;
     text-align: center;
     margin-bottom: 20px;
@@ -41,7 +39,6 @@ h3 {
 h4 {
     font-size: 24px;
     color: #444;
-    font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 20px;
 }
@@ -49,7 +46,6 @@ h4 {
 h5 {
     font-size: 15px;
     color: #444;
-    font-weight: bold;
     text-transform: uppercase;
 }
 
@@ -59,12 +55,8 @@ a {
 }
 
 a:hover {
-    color: #F79708;
+    color: #FD9D0C;
     text-transform: uppercase;
-}
-
-strong {
-    font-weight: bold;
 }
 
 small {
@@ -116,7 +108,6 @@ header nav ul li {
 
 header nav ul li a {
     color: #444;
-    font-weight: bold;
     display: block;
     margin-right: 20px;
     float: left;
@@ -124,6 +115,7 @@ header nav ul li a {
     border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
+    font-family:"Droid Sans", "Lucida Grande", Tahoma, sans-serif;
 }
 
 /*
@@ -134,7 +126,7 @@ END HEADER STYLE
 CONTENT STYLE
 */
 #primary-content {
-    background-color: #f8fafa;
+    background-color: #FFF5E6;
     padding: 60px 0;
     text-align: center;
 }
@@ -143,12 +135,19 @@ CONTENT STYLE
     display: block;
     margin: 0 auto 20px auto;
     width: 400px;
-    border-bottom: 1px solid #02b8dd;
+    border-bottom: 1px solid #FD9D0C;
     padding: 0 0 20px 0;
 }
 
 #primary-content a img {
     margin: 20px 0;
+}
+
+.profile img {
+    margin: 0;
+    padding: 0;
+    border-radius: 800px;
+    overflow: hidden;
 }
 /*
 END CONTENT STYLE
@@ -163,6 +162,7 @@ footer {
 }
 
 #footer-info {
+    font-size: small;
     width: 380px;
     float: left;
     margin-top: 10px;

@@ -39,13 +39,14 @@ function createFooterInfo(secondDiv) {
 }
 
 function createFooterLinks(div) {
-    createSocialLink(div, 'https://web.facebook.com/isavico', 'Facebook', '../../resources/images/Facebook.svg');
-    createSocialLink(div, 'http://www.twitter.com/IsaVico', 'Twitter', '../../resources/images/Twitter.svg');
-    createSocialLink(div, 'https://www.instagram.com/isavico86/', 'Instagram', '../../resources/images/Instagram.svg');
-    createSocialLink(div, 'https://www.pinterest.com/isavico86/', 'Pinterest', '../../resources/images/Pinterest.svg');
-    createSocialLink(div, 'https://plus.google.com/u/0/112833290541885433861', 'GooglePlus', '../../resources/images/GooglePlus.svg');
     createSocialLink(div, 'https://au.linkedin.com/in/isabelvico/en', 'LinkedIn', '../../resources/images/LinkedIn.svg');
     createSocialLink(div, 'https://github.com/IsaVico', 'GitHub', '../../resources/images/Github.svg');
+    createSocialLink(div, 'http://www.twitter.com/IsaVico', 'Twitter', '../../resources/images/Twitter.svg');
+    createSocialLink(div, 'https://www.pinterest.com/isavico86/', 'Pinterest', '../../resources/images/Pinterest.svg');
+    createSocialLink(div, 'https://web.facebook.com/isavico', 'Facebook', '../../resources/images/Facebook.svg');
+    createSocialLink(div, 'https://www.instagram.com/isavico86/', 'Instagram', '../../resources/images/Instagram.svg');
+    createSocialLink(div, 'https://plus.google.com/u/0/112833290541885433861', 'GooglePlus', '../../resources/images/GooglePlus.svg');
+
 }
 
 function createSocialLink(list, href, socialMediaText, imgSrc){
