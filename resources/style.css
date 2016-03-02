@@ -128,7 +128,8 @@ CONTENT STYLE
 #primary-content {
     background-color: #FFF5E6;
     padding: 60px 0;
-    text-align: center;
+    margin: 10px;
+    text-align: justify;
 }
 
 #primary-content h3 {
@@ -141,11 +142,11 @@ CONTENT STYLE
 
 #primary-content a img {
     margin: 20px 0;
+
 }
 
-.profile img {
-    margin: 0;
-    padding: 0;
+img {
+    padding: 10px;
     border-radius: 800px;
     overflow: hidden;
 }

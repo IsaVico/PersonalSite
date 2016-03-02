@@ -58,7 +58,7 @@ function createSocialLink(list, href, socialMediaText, imgSrc){
     img = document.createElement('img');
     img.setAttribute('alt', socialMediaText);
     img.setAttribute('src', imgSrc);
-    img.setAttribute('style','width:25px;height:25x;margin:5px');
+    img.setAttribute('style','width:25px;height:25x;');
     link.appendChild(img);
     list.appendChild(link);
 }
