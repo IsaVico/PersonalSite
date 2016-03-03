@@ -4,9 +4,17 @@
 
 
 function createContentResume(element, header){
-    var img;
+    createHeaderTitle(header, 'Resume');
+    createContent();
+}
 
-    img = document.createElement(img);
-    element.appendChild(document.createTextNode('This is the resume page'));
-    header.appendChild(document.createTextNode('Texto de prueba'));
+function createContent() {
+    readFile(createAboutMeTextContent, '../../resources/texts/resume.txt');
+}
+
+function createAboutMeTextContent () {
+    var element;
+
+    element = document.getElementById('contentElement');
+    appendTextContentToElement(element, this.responseText);
 }

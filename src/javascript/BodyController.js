@@ -28,6 +28,7 @@ function appendContentToArticle(article) {
 
     h3 = document.createElement('h3');
     p = document.createElement('p');
+    p.setAttribute('id', 'contentElement');
 
     createContentPage(p, h3);
 
@@ -55,7 +56,7 @@ function createContentPage(element, headerText){
             createContentTravels(element, headerText);
             break;
         case url.indexOf('contactme') > 0:
-            createContentContactMe(element, headerText);
+            createContentContactMe(headerText);
             break;
     }
 }

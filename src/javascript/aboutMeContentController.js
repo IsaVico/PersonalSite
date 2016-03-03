@@ -4,9 +4,17 @@
 
 
 function createContentAboutMe(element, header){
-    var img;
+    createHeaderTitle(header, 'About Me');
+    createContent();
+}
 
-    img = document.createElement(img);
-    element.appendChild(document.createTextNode('This is the about me page'));
-    header.appendChild(document.createTextNode('Texto de prueba'));
+function createContent() {
+    readFile(createAboutMeTextContent, '../../resources/texts/aboutme.txt');
+}
+
+function createAboutMeTextContent () {
+    var element;
+
+    element = document.getElementById('contentElement');
+    appendTextContentToElement(element, this.responseText);
 }

@@ -1,0 +1,110 @@
+Isabel Vico Peinado
+433/99 Jones St
+Ultimo NSW 2007
+M: 0452 446 265
+E: isabel.vico.peinado@gmail.com
+Nationality: Spanish (574 dependant visa without work limitations)
+
+
+Summary
+I enjoy working in both backend and frontend, since in my previous jobs I have dealt with both, and this gave me the opportunity to learn from them. In the last project I was working in, the company follow agile methodologies, specifically we used to apply SCRUM, I love to work with it and I am quite good following the standards, applying its principles, with the deadlines, achieving the goals and worrying about following the process. I am an outgoing person, good at dealing with people. I have a great adaptability to learn new technologies. 
+
+
+Employment History
+Aug 13 – Dec 15: Software Engineer				Granada, Spain 
+Unit4 R&D
+ 
+•	Project 1, ABW: development of the ERP Agresso Business World, in the area of Fundamentals, giving functionality and using SCRUM methodology, using unit testing and following the TDD standards. Technologies used in this project: .Net platform (C# and VB .NET), C, C++, Javascript, Extjs Sencha, SASS, Node.js, AJAX, JSON, Unit testing: Jasmine and NUnit, SQL, Oracle, MYSQL, HTML, HTML5, CSS, CSS3.
+•	Project 2, UBW: development of the ERP Unit4 Business World, in the area of Reporting, giving functionality and using SCRUM methodology, using unit testing and following the TDD standards. The technologies used in this project: .Net platform (C# and VB .NET), C, C++, Javascript, Extjs Sencha, SASS, Node.js, AJAX, JSON, Unit testing: Jasmine and NUnit, SQL, Oracle, MYSQL, HTML, HTML5, CSS, CSS3.
+
+For these two projects I have the following responsibilities:
+•	Be an active participant in the SCRUM meetings
+•	To use Test Driven Development
+•	To deliver high quality code
+•	Respond immediately if any problem has been detected in the code: as broken build or tests.
+•	Follow the code standards and best practices 
+
+Jan 13 – Jul 13: Software Developer 	 Jordanstown, Belfast, Northern Ireland (UK) 
+University of Ulster
+
+Development of a gesture recognition system as a collaborator of the Artificial Intelligence and Applications Research Group (AIARG) linked to SAVASA project.
+
+Responsibilities:
+•	Research the techniques and technologies necessary to develop the system.
+•	Study and implement the algorithms to build the gesture recognition system.
+•	Analyse the results after data mining to get the proper algorithm to implement.
+•	Develop a web based system to provide the video recognition environment.
+•	Technologies used: PHP, Java, JSP, C, C++, OpenCV, SQL, MSSQL, Weka, Visual Studio, Eclipse, NetBeans. 
+Mar 11 – Dec 12: Software Developer				Jaén, Spain
+University of Jaén
+
+Development of an electronic dictionary for olive oil terms in three languages: Spanish, English and Chinese as a collaborator of the Spanish Philology Department, linked to “Terminology of olive oil and commerce: China and other international markets” project.
+
+Responsibilities:
+•	Research the techniques and technologies necessary to develop the system.
+•	Study the terms and understand the connexion between them.
+•	Develop a multilingual web based system for consulting the terms in any supported language.
+•	Dependency: Natural Processing Language.
+•	Technologies: NetBeans, JSP, Servlet, SQL, MSSQL, JavaScript. 
+
+Education
+Advance Engineering School (Universtiy of Jaén)			Jaén, Spain
+Technical Engineer in Management Information Technology 
+3-year university degree focus on Software Engineering
+Graduated: January 2010
+ 
+Advance Engineering School (Universtiy of Jaén)			Jaén, Spain
+Computer Engineer 
+2-year university degree focus on Software Engineering
+(requirement Technical Engineer in Management Computing)
+Final project title: "Songs recognising from humming and natural language searching” 
+Graduated: January 2012
+
+Computer Science Department (University of Jaén)			Jaén, Spain
+Master Thesis
+Title: “Ontologies, Web services and corpus based terminology applied to the description of the quality of olive oil”
+Tutor: Pedro J. Sánchez Sánchez.
+Cotutor: Mercedes Roldán Vendrell.
+December 2012
+
+Skills
+Category	Name	Proficiency	Yrs Experience
+IT	HTML, CSS	Advanced	3-4 yrs
+	C#, .Net, Java, C/C++, NUnit,
+JSP, Servlet, Extjs Sencha,
+JavaScript, Jasmine	Intermediate	2-3 yrs
+	HTML5, CSS3
+PHP	Intermediate	1-2 yrs
+Database	SQL	Advanced	4+ yrs
+	Oracle, Apache Tomcat	Intermediate	2-3 yrs
+	PL/SQL	Basic	1 yr
+OS	Windows, Linux	Advanced	4+ yrs
+IDE	Visual Studio, Eclipse, NetBeans	Intermediate	3-4 yrs
+Text edition	Microsoft Office, Open Office, LaTeX	Advanced	4+ yrs
+Design/Media	Photoshop, flash, freehand	Intermediate	1-2 yrs
+Administrative	AMConta, Mathematica	Basic	1 yr
+Others	UML	Advanced	4+ yrs
+	TFS, TDD, SCRUM	Intermediate	2-3 yrs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
