@@ -23,11 +23,11 @@ function createHeader() {
 }
 
 function createNavElements (ul) {
-    createLink(ul, 'home', 'home');
-    createLink(ul, 'aboutme', 'about me');
-    createLink(ul, 'resume', 'resume');
-    createLink(ul, 'travels', 'travels');
-    createLink(ul, 'contactme', 'contact me');
+    createLink(ul, 'home', 'inicio');
+    createLink(ul, 'aboutme', 'sobre mi');
+    createLink(ul, 'resume', 'currículum');
+    createLink(ul, 'travels', 'viajes');
+    createLink(ul, 'contactme', 'escríbeme');
 }
 
 function createLink(ul, href, titleSection){

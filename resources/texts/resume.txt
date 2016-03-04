@@ -1,110 +1,13 @@
-Isabel Vico Peinado
-433/99 Jones St
-Ultimo NSW 2007
-M: 0452 446 265
-E: isabel.vico.peinado@gmail.com
-Nationality: Spanish (574 dependant visa without work limitations)
+Decidí estudiar Ingeniería Informática y meterme en el maravilloso mundo de los 0's y los 1's por el año 2004. Empecé Ingeniería Técnica en Informática de Gestión en la Universidad de Jaén. Una vez terminada me comencé a estudiar Ingeniería Informática también en la UJA. Cuando llegó el momento de decidir el Proyecto Fin de Carrera opté por algo que conocía, como había cursado la especialidad de búsqueda y tratamiento de la información en Internet, mi PFC estaba basado en lo mismo: se trataba de un buscador que reconocía canciones a partir de tarareos y búsquedas en lenguaje natural, tengo que destacar que me resultó muy interesante, pude trabajar con Lucene, además de con tecnologías web y tratamiento de archivos. 
 
+Allí en la UJA terminé mi titulación universitaria mientras colaboraba con el departamento de Humanidades. Estuve desarrollando un Diccionario electrónico de términos de aceite de oliva, en tres idiomas: Español, Inglés y Chino (OLIVATERM). Gracias a este proyecto me surgió el gusanillo de la investigación, así que ni corta ni perezosa me atreví a presenta un proyecto que es el equivalente al proyecto fin de máster, que se titula: Ontologías, Servicios Web y terminología basada en corpus aplicados a la descripción de la calidad del aceite de oliva. Fue el principio para comenzar con la Tesis, aunque he de decir, que este tema lo tengo bastante abandonado...con los siguientes trabajos, la verdad es que no he estado muy centrada, espero, algún día, poder retomarlo.
 
-Summary
-I enjoy working in both backend and frontend, since in my previous jobs I have dealt with both, and this gave me the opportunity to learn from them. In the last project I was working in, the company follow agile methodologies, specifically we used to apply SCRUM, I love to work with it and I am quite good following the standards, applying its principles, with the deadlines, achieving the goals and worrying about following the process. I am an outgoing person, good at dealing with people. I have a great adaptability to learn new technologies. 
+Cuando el proyecto en el que estaba colaborando terminó, gracias a uno de mis profesores, surgió la oportunidad de irme a Belfast. Así que estuve en la Universidad de Ulster durante 6 meses, desde enero hasta junio de 2013, colaborando con el grupo de Investigación AIARG. En esta colaboración tuve la oportunidad de aprender muchas cosas nuevas. Aunque antes no había trabajado procesando vídeo, durante este proyecto pude investigar bastante en este área. Tuve la oportunidad de analizar algoritmos, una vez investigados como funcionaban los diferentes algoritmos propuestos, creé un sistema que permitiera grabar imágenes con una cámara para poder analizar y determinar el gesto que se estaba reconociendo. Para esto, el sistema tenía que entrenarse de manera adecuada. Con un buen dataset de entrenamiento era posible que el usuario de una página web (desarrollada con propósito investigador) se grabara a sí mismo y el sistema reconociera el gesto que estaba haciendo. Este desarrollo fue realmente interesante.
 
+Cuando volví a España, comencé a trabajar en Unit4 R&D, en Granada. En esta empresa se desarrolla un sistema de administración de recursos empresariales, denominado Agresso. He de decir que he crecido mucho no profesional, sino también personalmente durante los casi 2 años y medio que he estado con ellos. Hasta que comencé en Unit4, no conocía cómo era el xtrabajo con Metodologías Ágiles, a partir de entonces conocí SCRUM, trabajé en equipo, en vez de trabajar por mi cuenta, como hasta ahora, y es algo que creo que aporta mucho, aprendes mucho de tus compañeros, ya sabeis que suelo decir que cada una de las personas con las que te encuentras en tu vida te enseña algo, y trabajar diariamente con un equipo de personas enriquece mucho. He mejorado mis habilidades como programadora, y he tenido la oportunidad de recibir varios workshops que te amplían el horizonte de conocimiento, abstrayéndote a la vez del trabajo diario.
 
-Employment History
-Aug 13 – Dec 15: Software Engineer				Granada, Spain 
-Unit4 R&D
- 
-•	Project 1, ABW: development of the ERP Agresso Business World, in the area of Fundamentals, giving functionality and using SCRUM methodology, using unit testing and following the TDD standards. Technologies used in this project: .Net platform (C# and VB .NET), C, C++, Javascript, Extjs Sencha, SASS, Node.js, AJAX, JSON, Unit testing: Jasmine and NUnit, SQL, Oracle, MYSQL, HTML, HTML5, CSS, CSS3.
-•	Project 2, UBW: development of the ERP Unit4 Business World, in the area of Reporting, giving functionality and using SCRUM methodology, using unit testing and following the TDD standards. The technologies used in this project: .Net platform (C# and VB .NET), C, C++, Javascript, Extjs Sencha, SASS, Node.js, AJAX, JSON, Unit testing: Jasmine and NUnit, SQL, Oracle, MYSQL, HTML, HTML5, CSS, CSS3.
+De todo lo anterior puedo sacar varias conclusiones, he tenido la oportunidad de trabajar en solitario y en equipo, y si bien es cierto que creo que un equipo favorece mucho el clima de trabajo, entiendo que haya personas que se organicen mejor por su cuenta, en mi opinión, es mucho mejor colaborar con varias personas, pues lo que tú no ves, lo puede ver otro, lo que tú no sabes, lo sabe otro, y creo que estamos hechos para colaborar unos con otros. Me gusta mucho trabajar con metodologías ágiles, creo que son muy interesantes para varios aspectos: el cliente no se desespera, así como el desarrollador que también ve como su trabajo va tomando forma poco a poco. Permiten distribuir el trabajo en tiempo y recursos, y son una gran manera de planificarse. He tenido la oportunidad de trabajar, en todos los proyectos tanto en la back-end como en front-end, y realmente me siento muy cómoda trabajando en los dos. Cada uno tiene sus matices, y la manera en la que has de cambiar el chip para trabajar en uno u otro es bastante interesante. Creo que sería difícil dejar de trabajar por completo en una de las dos.
 
-For these two projects I have the following responsibilities:
-•	Be an active participant in the SCRUM meetings
-•	To use Test Driven Development
-•	To deliver high quality code
-•	Respond immediately if any problem has been detected in the code: as broken build or tests.
-•	Follow the code standards and best practices 
+En cuanto a mis habilidades, he tenido la posibilidad de trabaja con C++, C, Java, .Net, C#, NUnit, JSP, Servlet, Extjs Sencha, Javascript, Jasmine, HTML, HTML5, CSS, CSS3, PHP, SQL, Oracle, Apache Tomcat, WAMP, LAMP, Visual Studio, Eclipse, NetBeans, UML, TFS, GitHub, TDD, SCRUM...entre otras. 
 
-Jan 13 – Jul 13: Software Developer 	 Jordanstown, Belfast, Northern Ireland (UK) 
-University of Ulster
-
-Development of a gesture recognition system as a collaborator of the Artificial Intelligence and Applications Research Group (AIARG) linked to SAVASA project.
-
-Responsibilities:
-•	Research the techniques and technologies necessary to develop the system.
-•	Study and implement the algorithms to build the gesture recognition system.
-•	Analyse the results after data mining to get the proper algorithm to implement.
-•	Develop a web based system to provide the video recognition environment.
-•	Technologies used: PHP, Java, JSP, C, C++, OpenCV, SQL, MSSQL, Weka, Visual Studio, Eclipse, NetBeans. 
-Mar 11 – Dec 12: Software Developer				Jaén, Spain
-University of Jaén
-
-Development of an electronic dictionary for olive oil terms in three languages: Spanish, English and Chinese as a collaborator of the Spanish Philology Department, linked to “Terminology of olive oil and commerce: China and other international markets” project.
-
-Responsibilities:
-•	Research the techniques and technologies necessary to develop the system.
-•	Study the terms and understand the connexion between them.
-•	Develop a multilingual web based system for consulting the terms in any supported language.
-•	Dependency: Natural Processing Language.
-•	Technologies: NetBeans, JSP, Servlet, SQL, MSSQL, JavaScript. 
-
-Education
-Advance Engineering School (Universtiy of Jaén)			Jaén, Spain
-Technical Engineer in Management Information Technology 
-3-year university degree focus on Software Engineering
-Graduated: January 2010
- 
-Advance Engineering School (Universtiy of Jaén)			Jaén, Spain
-Computer Engineer 
-2-year university degree focus on Software Engineering
-(requirement Technical Engineer in Management Computing)
-Final project title: "Songs recognising from humming and natural language searching” 
-Graduated: January 2012
-
-Computer Science Department (University of Jaén)			Jaén, Spain
-Master Thesis
-Title: “Ontologies, Web services and corpus based terminology applied to the description of the quality of olive oil”
-Tutor: Pedro J. Sánchez Sánchez.
-Cotutor: Mercedes Roldán Vendrell.
-December 2012
-
-Skills
-Category	Name	Proficiency	Yrs Experience
-IT	HTML, CSS	Advanced	3-4 yrs
-	C#, .Net, Java, C/C++, NUnit,
-JSP, Servlet, Extjs Sencha,
-JavaScript, Jasmine	Intermediate	2-3 yrs
-	HTML5, CSS3
-PHP	Intermediate	1-2 yrs
-Database	SQL	Advanced	4+ yrs
-	Oracle, Apache Tomcat	Intermediate	2-3 yrs
-	PL/SQL	Basic	1 yr
-OS	Windows, Linux	Advanced	4+ yrs
-IDE	Visual Studio, Eclipse, NetBeans	Intermediate	3-4 yrs
-Text edition	Microsoft Office, Open Office, LaTeX	Advanced	4+ yrs
-Design/Media	Photoshop, flash, freehand	Intermediate	1-2 yrs
-Administrative	AMConta, Mathematica	Basic	1 yr
-Others	UML	Advanced	4+ yrs
-	TFS, TDD, SCRUM	Intermediate	2-3 yrs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
+De todas formas, dejo un link con mi CV en formato PDF, por si estás interesado en echarle un vistazo ;) 

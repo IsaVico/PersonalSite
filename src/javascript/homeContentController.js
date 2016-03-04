@@ -14,10 +14,10 @@ function createImageHome(element){
     img = document.createElement('img');
     img.setAttribute('id', 'profile');
     img.setAttribute('alt', 'Me');
-    img.setAttribute('align','left');
+    img.setAttribute('align','right');
 
     img.setAttribute('src', '../../resources/images/me.jpg');
-    img.setAttribute('style','width:200px;height:200x');
+    img.setAttribute('style','width:200px;height:200x; border-radius: 800px');
 
     element.appendChild(img);
 }

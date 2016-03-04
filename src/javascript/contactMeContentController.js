@@ -3,7 +3,7 @@
  */
 
 function createContentContactMe(header){
-    createHeaderTitle(header, 'Contact Me');
+    createHeaderTitle(header, '¡Contacta conmigo!');
     createContent();
 }
 

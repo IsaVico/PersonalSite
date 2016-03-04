@@ -4,7 +4,7 @@
 
 
 function createContentResume(element, header){
-    createHeaderTitle(header, 'Resume');
+    createHeaderTitle(header, 'Currículum');
     createContent();
 }
 
