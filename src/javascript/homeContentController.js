@@ -17,21 +17,15 @@ function createImageHome(element){
     img.setAttribute('align','right');
 
     img.setAttribute('src', '../../resources/images/me.jpg');
-    img.setAttribute('style','width:200px;height:200x; border-radius: 800px');
+    img.setAttribute('style','width:200px;height:200px; border-radius: 800px');
 
     element.appendChild(img);
 }
 
 
 function createContent() {
-    readFile(createHomeTextContent, '../../resources/texts/home.txt');
+    readFile(createTextContent, '../../resources/texts/home.txt');
 }
 
-function createHomeTextContent () {
-    var element;
-
-    element = document.getElementById('contentElement');
-    appendTextContentToElement(element, this.responseText);
-}
 
 

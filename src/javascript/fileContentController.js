@@ -12,3 +12,11 @@ function appendTextContentToElement(element, text){
         element.appendChild(document.createElement('br'));
     }
 }
+
+
+function createTextContent () {
+    var element;
+
+    element = document.getElementById('contentElement');
+    appendTextContentToElement(element, this.responseText);
+}

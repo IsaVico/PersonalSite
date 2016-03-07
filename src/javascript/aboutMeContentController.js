@@ -10,7 +10,7 @@ function createContentAboutMe(element, header){
 }
 
 function createContent() {
-    readFile(createAboutMeTextContent, '../../resources/texts/aboutme.txt');
+    readFile(createTextContent, '../../resources/texts/aboutme.txt');
 }
 
 function createImageAboutMe(element){
@@ -22,15 +22,7 @@ function createImageAboutMe(element){
     img.setAttribute('align','left');
 
     img.setAttribute('src', '../../resources/images/aboutme.jpg');
-    img.setAttribute('style','width:300px;height:200x;border-radius: 800px');
+    img.setAttribute('style','width:300px;height:200px;border-radius: 800px');
 
     element.appendChild(img);
-}
-
-
-function createAboutMeTextContent () {
-    var element;
-
-    element = document.getElementById('contentElement');
-    appendTextContentToElement(element, this.responseText);
 }

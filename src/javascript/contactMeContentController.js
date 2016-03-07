@@ -8,10 +8,10 @@ function createContentContactMe(header){
 }
 
 function createContent() {
-    readFile(createAboutMeTextContent, '../../resources/texts/contactme.txt');
+    readFile(createContactMeTextContent, '../../resources/texts/contactme.txt');
 }
 
-function createAboutMeTextContent () {
+function createContactMeTextContent () {
     var element;
 
     element = document.getElementById('contentElement');

@@ -8,6 +8,10 @@ Cuando volví a España, comencé a trabajar en Unit4 R&D, en Granada. En esta e
 
 De todo lo anterior puedo sacar varias conclusiones, he tenido la oportunidad de trabajar en solitario y en equipo, y si bien es cierto que creo que un equipo favorece mucho el clima de trabajo, entiendo que haya personas que se organicen mejor por su cuenta, en mi opinión, es mucho mejor colaborar con varias personas, pues lo que tú no ves, lo puede ver otro, lo que tú no sabes, lo sabe otro, y creo que estamos hechos para colaborar unos con otros. Me gusta mucho trabajar con metodologías ágiles, creo que son muy interesantes para varios aspectos: el cliente no se desespera, así como el desarrollador que también ve como su trabajo va tomando forma poco a poco. Permiten distribuir el trabajo en tiempo y recursos, y son una gran manera de planificarse. He tenido la oportunidad de trabajar, en todos los proyectos tanto en la back-end como en front-end, y realmente me siento muy cómoda trabajando en los dos. Cada uno tiene sus matices, y la manera en la que has de cambiar el chip para trabajar en uno u otro es bastante interesante. Creo que sería difícil dejar de trabajar por completo en una de las dos.
 
-En cuanto a mis habilidades, he tenido la posibilidad de trabaja con C++, C, Java, .Net, C#, NUnit, JSP, Servlet, Extjs Sencha, Javascript, Jasmine, HTML, HTML5, CSS, CSS3, PHP, SQL, Oracle, Apache Tomcat, WAMP, LAMP, Visual Studio, Eclipse, NetBeans, UML, TFS, GitHub, TDD, SCRUM...entre otras. 
+En cuanto a mis habilidades, he tenido la posibilidad de trabajar con muchas tecnologías, debido a los diferentes proyectos de los que he formado parte, entre las más interesantes se encuentran: 
+
+C++, C, Java, .Net, C#, NUnit, 
+JSP, Servlet, Extjs Sencha, Javascript, Jasmine, HTML, HTML5, CSS, CSS3, 
+PHP, SQL, Oracle, Apache Tomcat, WAMP, LAMP, Visual Studio, Eclipse, NetBeans, UML, TFS, GitHub, TDD, SCRUM. 
 
 De todas formas, dejo un link con mi CV en formato PDF, por si estás interesado en echarle un vistazo ;) 
